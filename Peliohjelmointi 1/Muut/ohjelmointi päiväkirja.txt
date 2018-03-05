@@ -1,0 +1,5 @@
+1. tuskailua peli-idean kanssa, ja liikkumisen teko.
+2. Toisen pelaajan lis‰‰minen, paljon tuskailua nyrkin liikkumisen tekemisen kanssa. Lopulta p‰‰dyin tekem‰‰n animaatiolla ensi kerralla.
+3. Animaatioiden tekoa urakalla
+4. Hit Collisionin teko
+5. Player HEalth barit Canvaksille
